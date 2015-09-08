@@ -1,8 +1,8 @@
-
 0.2.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- RedShiftDDLCompiler renamed to RedshiftDDLCompiler.
+  (`Issue #43 <https://github.com/graingert/redshift_sqlalchemy/pull/43>`_)
 
 
 0.2.0 (2015-09-04)
